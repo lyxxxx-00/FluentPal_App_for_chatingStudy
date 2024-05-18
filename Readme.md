@@ -1,6 +1,7 @@
 # This is a project
 
 APP Name: __FluentPal__
+
 _Speak Confidently, Learn Effortlessly_
 
 Meet FluentPal, your ultimate language learning companion. Whether you're a beginner or looking to polish your skills, FluentPal uses cutting-edge AI to offer real-time translation, pronunciation feedback, grammar suggestions, and interactive conversation practice. Tailored to your personal learning pace, FluentPal makes mastering new languages effortless and enjoyable.
